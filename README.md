@@ -8,6 +8,9 @@ This repository contains all the Jupyter Notebooks used to generate results for 
 1. Ponder-Standards-R-Spectra.ipynb
 2. Ponder-Standards-R-SIRIUS.ipynb
 3. Ponder-Standards-MetFragPubChem.ipynb
+4. ButanoylCranitine_ScoringMassBank.ipynb
+5. MAW-Python_file_6M285R540ID286.ipynb
+6. MAW-R_file_6M285R540ID286.ipynb
 
 ## Notebooks for Downloading Spectral libraries [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6528931.svg)](https://doi.org/10.5281/zenodo.6528931)
 
