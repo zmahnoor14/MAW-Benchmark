@@ -15,7 +15,7 @@ This repository contains all the Jupyter Notebooks used to generate results for 
 ## Notebooks for Downloading Spectral libraries [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6528931.svg)](https://doi.org/10.5281/zenodo.6528931)
 
 1. DownloadGNPS.ipynb
-2. DownloadHMDB.ipynb
+2. DownloadHMDB.ipynb (has been updated for version 5, MAW 1.0.0 is developed on HMDB version 4)
 3. DownloadMassBank.ipynb 
 
 ## Notebooks for Bryophytes: 
