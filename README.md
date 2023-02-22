@@ -1,4 +1,4 @@
-# MAW-Benchmark
+# MAW-Benchmark (R and Python Scripts to run Metabolome annotation Workflow Benchmark datasets)
 
 This repository contains all the Jupyter Notebooks used to generate results for the [MAW](https://www.github.com/zmahnoor14/MAW) repository. Two example datasets were used to validate results for MAW,
 1. Standards from Diatoms [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7106205.svg)](https://doi.org/10.5281/zenodo.7106205)
